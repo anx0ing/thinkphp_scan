@@ -26,7 +26,7 @@ optional arguments:
                         targets file path
 ```
 
-![image-20230313160519838](C:\Users\Administrator\Desktop\Images\README\image-20230313160519838.png)
+![image-20230313160519838](https://raw.githubusercontent.com/beytagh001/blog-img/main/image-20230313160519838.png)
 
 
 
